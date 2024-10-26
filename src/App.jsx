@@ -1,15 +1,15 @@
 import React from "react";
-import Navbar from "./components/Navbar/Navbar";
-import NavbarBanner from "./components/Navbar/NavbarBanner";
-import Hero from "./components/Hero/Hero";
-import NumberCounter from "./components/NumberCounter/NumberCounter";
-import WhyChooseUs from "./components/WhyChooseUs/WhyChooseUs";
+import Navbar from "./Components/Navbar/Navbar";
+import NavbarBanner from "./Components/Navbar/NavbarBanner";
+import Hero from "./Components/Hero/Hero";
+import NumberCounter from "./Components/NumberCounter/NumberCounter";
+import WhyChooseUs from "./Components/WhyChooseUs/WhyChooseUs";
 import Img1 from "./assets/banner1.png";
 import Img2 from "./assets/banner2.png";
-import Banner from "./components/Banner/Banner";
-import SubjectCard from "./components/SubjectCard/SubjectCard";
-import Testimonial from "./components/Testimonial/Testimonial";
-import Footer from "./components/Footer/Footer";
+import Banner from "./Components/Banner/Banner";
+import SubjectCard from "./Components/SubjectCard/SubjectCard";
+import Testimonial from "./Components/Testimonial/Testimonial";
+import Footer from "./Components/Footer/Footer";
 
 const BannerData = {
   image: Img1,
