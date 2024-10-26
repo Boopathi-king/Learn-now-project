@@ -4,7 +4,7 @@ import { PiChalkboardTeacher } from "react-icons/pi";
 import { FaChalkboard } from "react-icons/fa";
 import { FaMoneyBillWave } from "react-icons/fa";
 import { motion } from "framer-motion";
-import { SlideLeft } from "../../utility/animation";
+import { SlideLeft } from "../../Utility/animation";
 
 const WhyChooseData = [
   {
