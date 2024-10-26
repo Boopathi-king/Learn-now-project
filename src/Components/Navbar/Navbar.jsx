@@ -1,5 +1,5 @@
 import React from "react";
-import { NavbarMenu } from "./../../DataM/data.js";
+import { NavbarMenu } from "../../DataM/data.js";
 import { MdComputer, MdMenu } from "react-icons/md";
 import { motion } from "framer-motion";
 import ResponsiveMenu from "./ResponsiveMenu.jsx";
