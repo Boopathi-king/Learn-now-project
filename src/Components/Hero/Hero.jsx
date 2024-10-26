@@ -2,7 +2,7 @@ import React from "react";
 import HeroImg from "../../assets/hero.png";
 import { FaPlay } from "react-icons/fa";
 import { motion } from "framer-motion";
-import { SlideRight } from "../../utility/animation";
+import { SlideRight } from "../../Utility/animation";
 
 const Hero = () => {
   return (
